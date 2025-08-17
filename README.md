@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-kumar-s&label=Profile%20views&color=0e75b6&style=flat" alt="yugesh-kumar-s" /> </p>
 
-- 🔭 I’m currently working on [Magic ePaper](https://github.com/Yugesh-Kumar-S/magic-epaper-app)
+- 🔭 I’m currently working on [PSLab](https://github.com/fossasia/pslab-app)
 
 - I have done [Workout tracker](https://github.com/Yugesh-Kumar-S/Workout_Tracker/tree/main)
 
